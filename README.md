@@ -5,6 +5,7 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
 </p>
 
 Front-End Semi Senior specialized in **Vue.js 3**, **TypeScript**, and **Angular** (v13 to the latest versions). I also have full-stack experience with Angular and Spring Boot (Java), building custom software for transactional, betting/gambling, and administrative systems in high-concurrency environments. Proactive learner focused on continuous improvement, with an active interest in AI-assisted development (Cursor, GitHub Copilot, and AI agents).

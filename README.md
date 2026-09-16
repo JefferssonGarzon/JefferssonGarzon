@@ -6,6 +6,8 @@
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
 </p>
 
 Front-End Semi Senior specialized in **Vue.js 3**, **TypeScript**, and **Angular** (v13 to the latest versions). I also have full-stack experience with Angular and Spring Boot (Java), building custom software for transactional, betting/gambling, and administrative systems in high-concurrency environments. Proactive learner focused on continuous improvement, with an active interest in AI-assisted development (Cursor, GitHub Copilot, and AI agents).

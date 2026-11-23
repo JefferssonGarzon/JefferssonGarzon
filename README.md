@@ -47,6 +47,7 @@ Semi Senior Front-End Developer in the JavaScript / TypeScript ecosystem, curren
 - **Claude Code in Action** and **Claude Code 101** — Anthropic (2026)
 - **Principios SOLID y Clean Code** — Udemy (2026)
 - **Developing Secure Software (LFD121)** — The Linux Foundation (2026)
+- **Angular: De cero a experto** — Udemy (2024)
 - **Universidad Desarrollo Web — FrontEnd Web Developer** — Udemy (2021)
 ---
  
